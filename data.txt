@@ -1,0 +1,15 @@
+List of Dogs:
+
+
+1.
+Name: Fido
+Favorite Food: Carrot
+Color: Blue
+Age: 2
+
+
+2.
+Name: Peter
+Favorite Food: Apple
+Color: Yellow
+Age: 3
